@@ -1,0 +1,17 @@
+{
+    "name": "janis/new-php",
+    "autoload": {
+        "psr-4": {
+            "Janis\\NewPhp\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JanisMarcinkevics",
+            "email": "janis.marcinkevics@gmail.com"
+        }
+    ],
+    "require": {
+        "vendor/guzzlehttp/guzzle": "^7.5"
+    }
+}
